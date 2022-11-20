@@ -1,0 +1,60 @@
+Uri: https://axofight.mints-is.live/
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\index.htm
+Content Type: text/html
+
+Uri: https://axofight.mints-is.live/1.jpg
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\1.jpg
+Content Type: image/jpeg
+
+Uri: https://axofight.mints-is.live/eb3551e939.js
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\eb3551e939.js
+Content Type: application/javascript
+
+Uri: https://axofight.mints-is.live/Fe4dsHlXwAIQauk.gif
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\Fe4dsHlXwAIQauk.gif
+Content Type: image/gif
+
+Uri: https://axofight.mints-is.live/ibaidu1.js
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\ibaidu1.js
+Content Type: application/javascript
+
+Uri: https://axofight.mints-is.live/style/asli.js
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\style\asli.js
+Content Type: application/javascript
+
+Uri: https://axofight.mints-is.live/style/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\style\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://axofight.mints-is.live/style/ethereumjs-tx-1.3.3.min.js
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\style\ethereumjs-tx-1.3.3.min.js
+Content Type: application/javascript
+
+Uri: https://axofight.mints-is.live/style/jquery.min.js
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\style\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://axofight.mints-is.live/style/mobile.css
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\style\mobile.css
+Content Type: text/css
+
+Uri: https://axofight.mints-is.live/t/font_2553510_61agzg96wm8.ttf
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\t\font_2553510_61agzg96wm8.ttf
+Content Type: application/font-sfnt
+
+Uri: https://axofight.mints-is.live/t/font_2553510_61agzg96wm8.woff
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\t\font_2553510_61agzg96wm8.woff
+Content Type: application/font-woff
+
+Uri: https://axofight.mints-is.live/web3%401.8.0/dist/web3.min.js
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\web3@1.8.0\dist\web3.min.js
+Content Type: application/javascript
+
+Uri: https://axofight.mints-is.live/web3/dist917/index.min.js
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\web3\dist917\index.min.js
+Content Type: application/javascript
+
+Uri: https://axofight.mints-is.live/web3/dist917/moralis.js
+File Name: C:\Downloaded Web Sites\axofight.mints-is.live\web3\dist917\moralis.js
+Content Type: application/javascript
+
